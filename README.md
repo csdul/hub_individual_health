@@ -1,6 +1,6 @@
 # HUB Individual Health
 
-The Hub, led by Dr. Charles Plante and Dr. Cory Neudorf, will take primary responsibility for integrating the work and components completed by the Nodes in the RDC, and creating and disseminating **CSDUL**.  
+The Hub, led by Dr. Charles Plante and Dr. Cory Neudorf, will take primary responsibility for integrating the work and components completed by the Nodes in the RDC, and creating and disseminating [**CSDUL**](https://github.com/csdul/pre_beta_csdul_introduction).  
 It will also construct individual-level demographic variables, health behaviour indicators, and health history/health system use indicators.
 
 Individual health behaviours (i.e., smoking, drinking, physical activity, and frequency of fruit and vegetable consumption) will be operationalized in the [**CCHS**](https://www150.statcan.gc.ca/n1/daily-quotidien/220419/dq220419d-eng.htm) using established methods developed by [**Statistics Canada**](https://www.statcan.gc.ca/en/start) [^1]. Demographic variables, including age, gender, ethnicity, marital status, family composition, level of education, family income, employment status, and occupation, will be included.
