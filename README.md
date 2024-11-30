@@ -9,8 +9,8 @@ For health history/health system use, [**DAD**](https://www.statcan.gc.ca/en/mic
 
 ## List of Indicators
 
-- [Avoidable Mortality]
-- [Substance Use] 
+- [Avoidable Mortality](https://github.com/csdul/pre_beta_hub_individual/tree/main/avoidable_mortality)
+- [Substance Use](https://github.com/csdul/pre_beta_hub_individual/tree/main/substance_use) 
 
 ## References
 
