@@ -5,7 +5,7 @@ It will also construct individual-level demographic variables, health behaviour 
 
 Individual health behaviours (i.e., smoking, drinking, physical activity, and frequency of fruit and vegetable consumption) will be operationalized in the **CCHS** using established methods developed by **Statistics Canada** [^1]. Demographic variables, including age, gender, ethnicity, marital status, family composition, level of education, family income, employment status, and occupation, will be included.
 
-For health history/health system use, **DAD** and **NACRS** data combined with **International Classification of Diseases (ICD)** codings will be used to identify comorbidities (i.e., the **Charlson Comorbidity Index** [^2][^3]; see also **Youngson et al.** [^4] for an application using the Canadian **DAD** and **NACRS**) and with care trajectory modelling methods [^5][^6] (specifically, state sequence analysis—which is analogous to cluster analysis, but applicable to trajectories data [^7]) to identify “qualitative” indicators of individual health history and system use.
+For health history/health system use, [**DAD**](https://www.statcan.gc.ca/en/microdata/data-centres/data/cencchs-dad) and **NACRS** data combined with **International Classification of Diseases (ICD)** codings will be used to identify comorbidities (i.e., the **Charlson Comorbidity Index** [^2][^3]; see also **Youngson et al.** [^4] for an application using the Canadian **DAD** and **NACRS**) and with care trajectory modelling methods [^5][^6] (specifically, state sequence analysis—which is analogous to cluster analysis, but applicable to trajectories data [^7]) to identify “qualitative” indicators of individual health history and system use.
 
 ## References
 
