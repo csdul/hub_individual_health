@@ -7,9 +7,6 @@ Individual health behaviours (i.e., smoking, drinking, physical activity, and fr
 
 For health history/health system use, **DAD** and **NACRS** data combined with **International Classification of Diseases (ICD)** codings will be used to identify comorbidities (i.e., the **Charlson Comorbidity Index** [^2][^3]; see also **Youngson et al.** [^4] for an application using the Canadian **DAD** and **NACRS**) and with care trajectory modelling methods [^5][^6] (specifically, state sequence analysis—which is analogous to cluster analysis, but applicable to trajectories data [^7]) to identify “qualitative” indicators of individual health history and system use.
 
-## CSDUL Components Set Up
-![image](https://github.com/user-attachments/assets/ceee5ccc-7b18-4a40-9013-d898fc2c74e9)
-
 ## References
 
 [^1]: Statistics Canada. *Healthy Behaviours, 2017*. Statistics Canada; 2018.
