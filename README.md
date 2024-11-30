@@ -7,6 +7,11 @@ Individual health behaviours (i.e., smoking, drinking, physical activity, and fr
 
 For health history/health system use, [**DAD**](https://www.statcan.gc.ca/en/microdata/data-centres/data/cencchs-dad) and [**NACRS**](https://www.statcan.gc.ca/en/microdata/data-centres/data/dad-nacrs-omhrs-cvsdd) data combined with [**International Classification of Diseases (ICD)**](https://www.who.int/standards/classifications/classification-of-diseases) codings will be used to identify comorbidities (i.e., the **Charlson Comorbidity Index** [^2][^3]; see also **Youngson et al.** [^4] for an application using the Canadian **DAD** and **NACRS**) and with care trajectory modelling methods [^5][^6] (specifically, state sequence analysis—which is analogous to cluster analysis, but applicable to trajectories data [^7]) to identify “qualitative” indicators of individual health history and system use.
 
+# List of Indicators
+
+- Avoidable Mortality
+- Substance Use 
+
 ## References
 
 [^1]: Statistics Canada. *Healthy Behaviours, 2017*. Statistics Canada; 2018.
@@ -17,7 +22,4 @@ For health history/health system use, [**DAD**](https://www.statcan.gc.ca/en/mic
 [^6]: Sequence analysis techniques, like state sequence analysis, are referenced in literature on health trajectory modelling and cluster analysis methodologies.
 [^7]: State sequence analysis, specifically suited for trajectory data, is discussed in studies on care trajectory modelling and cluster analysis methods in health data.
 
-# List of Indicators
 
-- Avoidable Mortality
-- Substance Use 
