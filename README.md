@@ -16,3 +16,8 @@ For health history/health system use, [**DAD**](https://www.statcan.gc.ca/en/mic
 [^5]: Brzinsky-Fay H, Kohler U. Sequence analysis with Stata. *Stata J*. 2006;6:435-460.
 [^6]: Sequence analysis techniques, like state sequence analysis, are referenced in literature on health trajectory modelling and cluster analysis methodologies.
 [^7]: State sequence analysis, specifically suited for trajectory data, is discussed in studies on care trajectory modelling and cluster analysis methods in health data.
+
+# List of Indicators
+
+- Avoidable Mortality
+- Substance Use 
