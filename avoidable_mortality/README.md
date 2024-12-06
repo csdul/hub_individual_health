@@ -31,9 +31,9 @@ They are calculated at the following level of aggregation:
 Furthermore, the National Household Survey (NHS) 2011 was used to measure income inequality in mortality by calculating concentration index, 
 at the same levels mentioned above.
 
-## Datasets
+## [Datasets](https://github.com/csdul/pre_beta_datasets)
 
-- Census[**Census**]
+- Census
 - Canadian Vital Statistics - Death Database (CVSD)
 - National Household Survey (NHS) 
 
