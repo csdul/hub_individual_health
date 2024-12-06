@@ -11,7 +11,7 @@ sociodemographic information of the 2006 Census (long-form) respondents to their
 2016). We developed an algorithm to identify Saskatchewanians who experienced a substance use harm event. We validated the cohort by comparing our
 descriptive findings with those from other Canadian studies on substance use.
 
-## Datasets
+## [Datasets](https://github.com/csdul/pre_beta_datasets)
 
 - Canadian Census Health and Environment Cohorts (CanCHEC)
 - Discharge Abstract Database (DAD)
