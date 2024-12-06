@@ -38,8 +38,8 @@ at the same levels mentioned above.
 - National Household Survey (NHS) 
 
 ## Files
-- **Contact Email**: [daniel.yc@usask.ca](mailto:daniel.yc@usask.ca)
-- **[Codes]**(https://github.com/csdul/pre_beta_hub_individual/tree/main/avoidable_mortality/codes): Contains scripts or algorithms used to calculate and process the indicator.
+
+- [**Codes**](https://github.com/csdul/pre_beta_hub_individual/tree/main/avoidable_mortality/codes): Contains scripts or algorithms used to calculate and process the indicator.
 - Documents: Includes detailed documentation outlining the methodology, purpose, and any relevant notes for the indicator.
 - Tables or Datasets: Contains the data used for calculating or representing the indicator.
 - Support Files (if applicable): Provides additional resources such as configuration files, reference data, or 
