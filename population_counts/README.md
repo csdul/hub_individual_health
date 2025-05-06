@@ -1,10 +1,7 @@
 # Population Counts
 
-We used [Canadian Census Health and Environment Cohorts (CanCHEC)](https://github.com/csdul/pre_beta_datasets/blob/main/README.md) 2006 to create a cohort of Saskatchewanians followed from 2006 to 2016. We linked
-sociodemographic information of the 2006 Census (long-form) respondents to their hospitalization data captured in the 
-[Discharge Abstract Database (DAD)](https://github.com/csdul/pre_beta_datasets/blob/main/README.md) (2006 to 2016) and their mortality records in the [Canadian Vital Statistics Death Database (CVSD)]((https://github.com/csdul/pre_beta_datasets/blob/main/README.md)) (2006 to
-2016). We developed an algorithm to identify Saskatchewanians who experienced a substance use harm event. We validated the cohort by comparing our
-descriptive findings with those from other Canadian studies on substance use.
+This paper addresses a key data gap in Canadian demographic research by providing intercensal population estimates at the Census Tract (CT) and Dissemination Area (DA) levels—geographic units frequently used in health and social policy studies due to their small size and socioeconomic relevance. While Statistics Canada offers population counts for larger regions (like provinces or Census Divisions) and for census years, it does not publish estimates for CTs and DAs between census years. This absence hinders local-level analyses, especially in studies of neighbourhood health disparities and social inequality.
+To overcome this limitation, the authors compile available population data from Statistics Canada and generate interpolated annual estimates for CTs and DAs between 2011 and 2021. They also provide a detailed methodology and an open-source R script to ensure reproducibility and to help researchers perform similar interpolations for other periods or geographic analyses. Overall, the study creates a valuable resource for researchers needing small-area population data and contributes a practical tool for demographic estimation at the local level in Canada.
 
 ## [Datasets](https://github.com/csdul/pre_beta_datasets)
 
