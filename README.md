@@ -11,7 +11,7 @@ For health history/health system use, [**DAD**](https://www.statcan.gc.ca/en/mic
 
 - [Avoidable Mortality](https://github.com/csdul/pre_beta_hub_individual/tree/main/avoidable_mortality)
 - [Substance Use](https://github.com/csdul/pre_beta_hub_individual/tree/main/substance_use)
-- [Population Counts]()
+- [Population Counts](https://github.com/csdul/pre_beta_hub_individual/tree/main/population_counts)
 
 ## References
 
