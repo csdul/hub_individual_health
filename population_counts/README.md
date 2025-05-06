@@ -15,10 +15,10 @@ descriptive findings with those from other Canadian studies on substance use.
 
 ## Files
 
-- [**Codes**](https://github.com/csdul/pre_beta_hub_individual/tree/main/substance_use/codes): Contains scripts or algorithms used to calculate and process the indicator.
-- [**Documents**](https://drive.google.com/drive/folders/1DCPG9IyNNFLXegbh6hBhE90eaDQVswkj): Includes detailed documentation outlining the methodology, purpose, and any relevant notes for the indicator.
-- [**Tables or Datasets**](https://drive.google.com/drive/folders/1RiHXA9Or-pVwXOVPjU90PsKyAK1wl8gc): Contains the data used for calculating or representing the indicator.
-- [**Support Files**](https://drive.google.com/drive/folders/1XxqYgDLJJqMj9Qs0-LXys9AaoUX5pO4C): Provides additional resources such as configuration files, reference data, or 
+- [**Codes**](https://github.com/csdul/pre_beta_hub_individual/tree/main/population_counts/codes): Contains scripts or algorithms used to calculate and process the indicator.
+- [**Documents**](https://drive.google.com/drive/folders/1s_2RYMQIjNiNl0dpXHQdQ-o5usC1Hbpm): Includes detailed documentation outlining the methodology, purpose, and any relevant notes for the indicator.
+- [**Tables or Datasets**](https://drive.google.com/drive/folders/1fXYxHzv49xINKoKTWXpMQ-o7xQZGA-WG): Contains the data used for calculating or representing the indicator.
+- [**Support Files**](https://drive.google.com/drive/folders/1MEfJb2l2kqp0IBizg7K_uRMYuaf8_8tX): Provides additional resources such as configuration files, reference data, or 
   supplementary models.
 
 
