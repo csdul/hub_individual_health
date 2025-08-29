@@ -19,9 +19,7 @@ descriptive findings with those from other Canadian studies on substance use.
 
 ## Files
 
-- [**Codes**](https://github.com/csdul/pre_beta_hub_individual/tree/main/substance_use/codes): Contains scripts or algorithms used to calculate and process the indicator.
-- [**Documents**](https://drive.google.com/drive/folders/1DCPG9IyNNFLXegbh6hBhE90eaDQVswkj): Includes detailed documentation outlining the methodology, purpose, and any relevant notes for the indicator.
-- [**Tables or Datasets**](https://drive.google.com/drive/folders/1RiHXA9Or-pVwXOVPjU90PsKyAK1wl8gc): Contains the data used for calculating or representing the indicator.
-- [**Support Files**](https://drive.google.com/drive/folders/1XxqYgDLJJqMj9Qs0-LXys9AaoUX5pO4C): Provides additional resources such as configuration files, reference data, or 
-  supplementary models.
-
+- [**Codes**](https://github.com/csdul/pre_beta_hub_individual/tree/main/avoidable_mortality/codes): Contains scripts or algorithms used to calculate and process the indicator.
+- [**Documents**](https://drive.google.com/drive/folders/16JdXB271MFI0rIS73d8nUd_fqXZ5Gw2T): Includes detailed documentation outlining the methodology, purpose, and any relevant notes for the indicator.
+- [**Data**](https://drive.google.com/drive/folders/16JdXB271MFI0rIS73d8nUd_fqXZ5Gw2T): Contains the data used for calculating or representing the indicator.
+- [**Results**](https://drive.google.com/drive/folders/1Zb0YiiOH-pHuEfiH91RCPFGxW11kfsOw): Table with the indicators calculated.
