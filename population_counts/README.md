@@ -10,10 +10,8 @@ To overcome this limitation, HUB compiles available population data from Statist
 
 ## Files
 
-- [**Codes**](https://github.com/csdul/pre_beta_hub_individual/tree/main/population_counts/codes): Contains scripts or algorithms used to calculate and process the indicator.
-- [**Documents**](https://drive.google.com/drive/folders/1s_2RYMQIjNiNl0dpXHQdQ-o5usC1Hbpm): Includes detailed documentation outlining the methodology, purpose, and any relevant notes for the indicator.
-- [**Tables or Datasets**](https://drive.google.com/drive/folders/1fXYxHzv49xINKoKTWXpMQ-o7xQZGA-WG): Contains the data used for calculating or representing the indicator.
-- [**Support Files**](https://drive.google.com/drive/folders/1MEfJb2l2kqp0IBizg7K_uRMYuaf8_8tX): Provides additional resources such as configuration files, reference data, or 
-  supplementary models.
-
+- [**Codes**](https://github.com/csdul/pre_beta_hub_individual/tree/main/avoidable_mortality/codes): Contains scripts or algorithms used to calculate and process the indicator.
+- [**Documents**](https://drive.google.com/drive/folders/16JdXB271MFI0rIS73d8nUd_fqXZ5Gw2T): Includes detailed documentation outlining the methodology, purpose, and any relevant notes for the indicator.
+- [**Data**](https://drive.google.com/drive/folders/16JdXB271MFI0rIS73d8nUd_fqXZ5Gw2T): Contains the data used for calculating or representing the indicator.
+- [**Results**](https://drive.google.com/drive/folders/1Zb0YiiOH-pHuEfiH91RCPFGxW11kfsOw): Table with the indicators calculated.
 
