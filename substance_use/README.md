@@ -19,7 +19,7 @@ descriptive findings with those from other Canadian studies on substance use.
 
 ## Files
 
-- [**Codes**](https://github.com/csdul/pre_beta_hub_individual/tree/main/avoidable_mortality/codes): Contains scripts or algorithms used to calculate and process the indicator.
-- [**Documents**](https://github.com/csdul/pre_beta_hub_individual/tree/main/avoidable_mortality/documents): Includes detailed documentation outlining the methodology, purpose, and any relevant notes for the indicator.
-- [**Data**](https://github.com/csdul/pre_beta_hub_individual/tree/main/avoidable_mortality/data): Contains the data used for calculating or representing the indicator.
-- [**Results**](https://github.com/csdul/pre_beta_hub_individual/tree/main/avoidable_mortality/results): Table with the indicators calculated.
+- [**Codes**](https://github.com/csdul/pre_beta_hub_individual/tree/main/substance_use/codes): Contains scripts or algorithms used to calculate and process the indicator.
+- [**Documents**](https://github.com/csdul/pre_beta_hub_individual/tree/main/substance_use/documents): Includes detailed documentation outlining the methodology, purpose, and any relevant notes for the indicator.
+- [**Data**](https://github.com/csdul/pre_beta_hub_individual/tree/main/substance_use/data): Contains the data used for calculating or representing the indicator.
+- [**Results**](https://github.com/csdul/pre_beta_hub_individual/tree/main/substance_use/results): Table with the indicators calculated.
