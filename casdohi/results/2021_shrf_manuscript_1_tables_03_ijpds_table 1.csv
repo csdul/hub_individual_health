@@ -1,0 +1,59 @@
+Tables and Figures,,,,
+"Table 1: Sociodemographic characteristics of Census 2006 respondents, by having experience of substance use harm between 2006 to 2016. ",,,,
+,,Provincial cohort ,PESUH,NPESUH
+"Characteristics, % (SE)",,"(n ≈ 228,000)","(n ≈ 7,000)","(n ≈ 221,000)"
+Age at cohort entry,,,,
+,25 percentile (SE),18 (0.00),19 (0.46),18 (0.00)
+,50 percentile (SE),37 (0.19),35 (0.75),37 (0.33)
+,75 percentile (SE),54 (0.22),51 (0.61),54 (0.44)
+Sex,,,,
+,"female, % (SE)",51.2 (0.12),46.8 (0.84),51.3 (0.13)
+,"male, % (SE)",48.8 (0.12),53.2 (0.84),48.7 (0.13)
+"Income, after-tax household income quintile in SK",,,,
+,"Quntile 1, % (SE)",20.0 (0.10),42.5 (0.80),19.5 (0.09)
+,"Quntile 2, % (SE)",20.0 (0.10),18.5 (0.65),20.0 (0.11)
+,"Quntile 3, % (SE)",20.0 (0.10),14.8 (0.59),20.1 (0.10)
+,"Quntile 4, % (SE)",20.0 (0.10),12.7 (0.59),20.1 (0.11)
+,"Quntile 5, % (SE)",20.0 (0.10),11.4 (0.56),20.2 (0.11)
+Region of residency,,,,
+,"Rural, % (SE)",34.3 (0.12),37.7 (0.73),34.2 (0.12)
+,"Urban, % (SE)",65.7 (0.12),62.3 (0.73),65.8 (0.12)
+Ethnicity,,,,
+,"Black, % (SE)",0.5 (0.02),0.3 (0.09),0.5 (0.02)
+,"East Asian, % (SE)",1.0 (0.03),0.3 (0.09),1.1 (0.03)
+,"Latin American, % (SE)",0.3 (0.01),0.1 (0.06),0.3 (0.01)
+,"South Asian, % (SE)",0.7 (0.02),0.4 (0.11),0.7 (0.02)
+,"southeast Asian, % (SE)",0.7 (0.02),0.2 (0.07),0.7 (0.02)
+,"White, % (SE)",82.0 (0.09),56.0 (0.80),82.6 (0.09)
+,"Indigenous, % (SE)",14.4 (0.08),42.7 (0.79),13.8 (0.08)
+,"Other, % (SE) ¹",0.4 (0.02),0.1 (0.03),0.4 (0.02)
+Occupation,,,,
+,"Management occupations, % (SE)",4.6 (0.06),2.6 (0.24),4.7 (0.05)
+,"Business, finance and administrative occupations, % (SE)",9.3 (0.07),4.7 (0.39),9.4 (0.08)
+,"Natural and applied sciences and related occupations, % (SE)",2.5 (0.04),1.2 (0.21),2.5 (0.04)
+,"Health occupations, % (SE)",3.7 (0.05),2.2 (0.27),3.7 (0.05)
+,"Occupations in social science, education, government service and religion, % (SE)",4.9 (0.06),2.3 (0.24),5.0 (0.06)
+,"Occupations in art, culture, recreation and sport, % (SE)",1.4 (0.03),0.8 (0.15),1.4 (0.03)
+,"Sales and service occupations, % (SE)",14.7 (0.09),16.2 (0.62),14.7 (0.10)
+,"Trades, transport and equipment operators and related occupations, % (SE)",9.5 (0.07),11.2(0.54),9.5 (0.08)
+,"Occupations unique to primary industry, % (SE)",7.4 (0.07),5.6 (0.37),7.5 (0.07)
+,"Occupations unique to processing, manufacturing and utilities, % (SE)",1.9 (0.04),2.6 (0.29),1.9 (0.04)
+,"Not applicable, % (SE)",40.1 (0.13),50.4 (0.87),39.9 (0.12)
+Employment status,,,,
+,"Not applicable, less than 15 years, % (SE)",19.4 (0.10),15.5 (0.59),19.5 (0.10)
+,"Employed, % (SE)",52.0 (0.13),37.6 (0.85),52.3 (0.13)
+,"Not in labour force, % (SE)",24.7 (0.10),37.3 (0.79),24.4 (0.11)
+,"Unemployed, % (SE)",3.9 (0.05),9.5 (0.49),3.8 (0.05)
+Educational attainment,,,,
+,"Less than high school, % (SE)",24.0 (0.11),39.6 (0.80),23.7 (0.11)
+,"High school graduation certificate or equivalency certificate, % (SE)",21.6 (0.11),19.8 (0.69),21.6 (0.10)
+,"Non-university post-secondary certificate or diploma, % (SE)",24.4 (0.11),21.1 (0.70),24.5 (0.11)
+,"Bachelor’s degree, % (SE)",7.7 (0.07),2.5 (0.25),7.8 (0.07)
+,"University certificate or diploma above bachelor level, % (SE)",2.9 (0.04),1.4 (0.22),3.0 (0.04)
+,"Not applicable (Institutional residents), % (SE)",19.4 (0.10),15.5 (0.59),19.5 (0.10)
+"Total number of hospitalizations, betweeen 2006 and 2016",,,,
+,"0, % (SE)",37.3 (0.12),1.9 (0.26),38.0 (0.13)
+,"1, % (SE)",18.5 (0.09),12.8 (0.54),18.6 (0.10)
+,"2 to 5, % (SE)",32.1 (0.12),44.9 (0.86),31.9 (0.12)
+,"6 and more, % (SE)",12.1 (0.08),40.4 (0.83),11.5 (0.08)
+"Notes: All percentages are weighted to the whole population of Canadians in 2006, using the CanCHEC cohort weight. Standard errors (SE) are calculated by bootstraping. ¹ Other includes individuals who were categorized under the ""multiple minorities"" or ""Middle Easterns"" groups in the Visible Minority question in Census. PESUH: people who experienced substance use harm during 2006-16; NPESUH: people who did not experienced substance use harm.",,,,
