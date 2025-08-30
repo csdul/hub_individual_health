@@ -12,5 +12,5 @@
 - Harmonized across multiple Census years for comparability  
 - Intercensal estimates allow for year-to-year analysis  
 
-The full list of indicators is provided in **Table 1** of the working paper associated with the dataset.
+The full list of indicators is provided in **Table 1** of the [**working paper**](https://github.com/csdul/hub_individual_health/blob/main/casdohi/documents/ijpds_202405_substance_use_cohort_manuscript.pdf) associated with the dataset.
 
