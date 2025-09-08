@@ -12,8 +12,6 @@ The economic impact is estimated for:
 The output and GDP by industry used in the calculation of multipliers differ slightly from those published in Supply and Use Tables.  
 To avoid negative inter-industry transactions, negative secondary outputs of wholesaling margins are re-allocated to the wholesaling industry and equivalently offset through an adjustment to the value of **gross operating surplus**.
 
----
-
 ## Types of Multipliers
 
 - **Direct multiplier**  
@@ -30,8 +28,6 @@ To avoid negative inter-industry transactions, negative secondary outputs of who
   
 - **Total multiplier**  
   Sum of the *direct*, *indirect*, and *induced* multipliers.
-
----
 
 ## Type I and Type II Multipliers
 
@@ -51,8 +47,6 @@ To avoid negative inter-industry transactions, negative secondary outputs of who
   Total jobs multipliers show the direct, indirect, and induced impacts on jobs of one million dollars’ worth of manufacturing output.  
   Type II jobs multipliers show the direct, indirect, and induced impacts across the whole economy of one job in the manufacturing industry.
 
----
-
 ## Special Notes
 
 - Unlike the Supply and Use Tables, the **Labour income of unincorporated sector** variable includes only an estimate of the labour income portion of *gross mixed income* (the income of the unincorporated sector).  
@@ -62,8 +56,6 @@ To avoid negative inter-industry transactions, negative secondary outputs of who
   [Table 36-10-0480-01 – Labour productivity and related measures by business sector industry and by non-commercial activity consistent with the industry accounts](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610048001)
 
 - National and provincial multipliers at the **link-1997** and **link-1961** levels are available in CSV files on request.
-
----
 
 ## Revisions and Special Considerations
 
