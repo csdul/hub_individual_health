@@ -13,6 +13,7 @@ For health history/health system use, [**DAD**](https://www.statcan.gc.ca/en/mic
 - [Substance Use](https://github.com/csdul/pre_beta_hub_individual/tree/main/substance_use)
 - [Population Counts](https://github.com/csdul/pre_beta_hub_individual/tree/main/population_counts)
 - [CASDOHI](https://github.com/csdul/hub_individual_health/tree/main/casdohi)
+- [Economic Multipliers](https://github.com/csdul/hub_individual_health/tree/main/economic_multipliers)
 
 ## References
 
