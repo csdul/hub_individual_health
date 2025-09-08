@@ -27,8 +27,7 @@ To avoid negative inter-industry transactions, negative secondary outputs of who
 
 - **Induced multiplier**  
   Measures the value of production driven by household expenditures associated with labour income (e.g., wages) generated from direct and indirect effects.  
-  ⚠️ Induced effects tend to exaggerate the impacts of final expenditures within a one-year production cycle.
-
+  
 - **Total multiplier**  
   Sum of the *direct*, *indirect*, and *induced* multipliers.
 
