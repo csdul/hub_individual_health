@@ -75,3 +75,19 @@ To avoid negative inter-industry transactions, negative secondary outputs of who
   - For analysis of 2020, use the **2020 input-output multipliers and models**.  
   - For more current periods, the **2019 input-output multipliers and models** may be considered as more reflective of current economic structures.
 
+---
+
+## [Datasets](https://github.com/csdul/pre_beta_datasets)
+
+- Supply and Use Tables
+- Input Output Multipliers
+
+## Files
+
+- [**Codes**](https://github.com/csdul/hub_individual_health/tree/main/economic_multipliers/codes): Contains scripts or algorithms used to calculate and process the indicator.
+- [**Documents**](https://github.com/csdul/hub_individual_health/tree/main/economic_multipliers/documents): Includes detailed documentation outlining the methodology, purpose, and any relevant notes for the indicator.
+- [**Data**](https://github.com/csdul/hub_individual_health/tree/main/economic_multipliers/data): Contains the data used for calculating or representing the indicator.
+- [**Results**](https://github.com/csdul/hub_individual_health/tree/main/economic_multipliers/results): Table with the indicators calculated.
+
+
+
