@@ -66,8 +66,6 @@ To avoid negative inter-industry transactions, negative secondary outputs of who
   - For analysis of 2020, use the **2020 input-output multipliers and models**.  
   - For more current periods, the **2019 input-output multipliers and models** may be considered as more reflective of current economic structures.
 
----
-
 ## [Datasets](https://github.com/csdul/pre_beta_datasets)
 
 - Supply and Use Tables
