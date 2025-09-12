@@ -2,7 +2,7 @@
 
 These data files are products of the **Canadian Area-Level Social Determinants of Health Indicators (CASDOHI) Project**.  
 To learn more about the methodology used to create the CASDOHI tables, please refer to the associated publication below.
-To download the datasets, visit the CSDUL [**Google Drive**](https://drive.google.com/drive/folders/1LByhxyqqnAb4CngBrDaf26A3Fvig2VlU)
+To download the datasets, visit the CSDUL [**Google Drive**](https://drive.google.com/drive/folders/1LByhxyqqnAb4CngBrDaf26A3Fvig2VlU).
 
 ---
 
